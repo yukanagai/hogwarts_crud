@@ -17,10 +17,12 @@ Completion for this HW is part 9. There's no code here that's broken, just code 
 
 ## Setup - DONT RUN ANY RAILS CONFIG COMMANDS
 
-For this repository into your own Github account. Then clone it to your machine, OUTSIDE of your `wdi/pluto` repo. This app is to be tracked separately from your work. Then view all of the branches on the origin remote. **DONT RUN ANY RAILS CONFIG COMMANDS YET(db:create, migrate, etc..).**
+FIRST: Fork this repository into your own Github account.
+
+Then clone it to your machine, OUTSIDE of your `wdi/pluto` repo. This app is to be tracked separately from your work. Then view all of the branches on the origin remote. **DONT RUN ANY RAILS CONFIG COMMANDS YET(db:create, migrate, etc..).**
 
 ```bash
-git clone this_repo_ssh.git
+git clone your_fork_ssh.git
 git branch -a
 * master
   remotes/origin/HEAD -> origin/master
