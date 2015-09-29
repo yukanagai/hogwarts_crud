@@ -8,8 +8,9 @@ This exercise is a practice in merging files from other Git branches. We have a 
 1. Jaskar's Gems
 2. Meiji's Migrations
 3. Steph's Seeds
-4. Chris' Controllers
-5. Mohammed's Models
-6. Victoria's Views
-7. Riddel's Routes
-8. Yeung Yml
+4. Yeung Yml
+5. Chris' Controllers
+6. Mohammed's Models
+7. Victoria's Views
+8. Riddel's Routes
+9. Andres' Assets
