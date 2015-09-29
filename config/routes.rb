@@ -1,4 +1,4 @@
-HogwartsApp::Application.routes.draw do
+HogwartsCrud::Application.routes.draw do
 
 root "welcomes#index"
 
