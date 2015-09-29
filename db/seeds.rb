@@ -52,7 +52,7 @@ Student.create [ { name: 'Euan Abercrombie', img_url: 'http://images.clipartpand
 { name: 'Eleanor Branstone', img_url: 'http://images.clipartpanda.com/question-mark-black-and-white-Icon-round-Question_mark.jpg', house_id: hufflepuff.id },
 { name: 'Owen Cauldwell', img_url: 'http://images.clipartpanda.com/question-mark-black-and-white-Icon-round-Question_mark.jpg', house_id: hufflepuff.id },
 { name: 'Cedric Diggory', img_url: 'http://img3.wikia.nocookie.net/__cb20111015180904/harrypotter/images/c/c5/Cedric.jpg', house_id: hufflepuff.id },
-{ name: 'Justin Finch-img_url: Fletchley', 'http://img4.wikia.nocookie.net/__cb20100404201307/harrypotter/images/c/c4/Justin_Finch-Fletchley.jpg', house_id: hufflepuff.id },
+{ name: 'Justin Finch-Fletchley', img_url: 'http://img4.wikia.nocookie.net/__cb20100404201307/harrypotter/images/c/c4/Justin_Finch-Fletchley.jpg', house_id: hufflepuff.id },
 { name: 'Ernie Macmillan', img_url: 'http://img3.wikia.nocookie.net/__cb20100508174736/harrypotter/images/e/e9/Macmillan.jpg', house_id: hufflepuff.id },
 { name: 'Laura Madley', img_url: 'http://images.clipartpanda.com/question-mark-black-and-white-Icon-round-Question_mark.jpg', house_id: hufflepuff.id },
 { name: 'Eloise Midgeon', img_url: 'http://img3.wikia.nocookie.net/__cb20120417180133/harrypotter/images/a/ad/EloiseMidgenHeadShot.jpg', house_id: hufflepuff.id },
