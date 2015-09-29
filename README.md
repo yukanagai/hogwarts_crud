@@ -19,7 +19,7 @@ Completion for this HW is part 9. There's no code here that's broken, just code 
 
 FIRST: Fork this repository into your own Github account.
 
-Then clone it to your machine, OUTSIDE of your `wdi/pluto` repo. This app is to be tracked separately from your work. Then view all of the branches on the origin remote. **DONT RUN ANY RAILS CONFIG COMMANDS YET(db:create, migrate, etc..).**
+Then clone it to your machine, OUTSIDE of your `pluto` repo. This app is to be tracked separately from your work. Then view all of the branches on the origin remote. **DONT RUN ANY RAILS CONFIG COMMANDS YET(db:create, migrate, etc..).**
 
 ```bash
 git clone your_fork_ssh.git
@@ -75,7 +75,7 @@ Steph wrote a cool Ruby script that hit a Harry Potter wiki and scraped all of t
 
 ## Hark a MERGE conflict
 
-You might have noticed that you get a merge conflict message after merging `stephs_seeds` into `master`. Read the message and go to the file in question. Git is really good about this and has preserved both versions of the code. One section is code from HEAD in the master branch, the other is the code from Steph's branch. If Steph's code make sense over the HEAD branch, simply erase all of the arrow markings.
+You might have noticed that you get a merge conflict message after merging `stephs_seeds` into `master`. Read the message and go to the file in question. Git is really good about this and has preserved both versions of the code. One section is code from HEAD in the master branch, the other is the code from Steph's branch. If Steph's code make sense over the HEAD branch, simply erase all of the lines with arrow/equals markings.
 
 ```
 <<<<<<< HEAD
