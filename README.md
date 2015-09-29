@@ -128,7 +128,7 @@ rake db:seed
 rails s
 ```
 
-Doesn't all work? Sort through the errors in your code!
+Doesn't all work? Sort through the errors in your code! Perhaps one of your merges was done incorrectly, or it's just plain old Ruby errors. If it continues to break google/stack overflow it!
 
 # Part 11 - Heroku it up!
 
