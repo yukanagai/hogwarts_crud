@@ -13,7 +13,7 @@ This exercise is a practice in merging files from other Git branches. We have a 
 
 ## Completion
 
-Completion for this HW is all parts. There's no code here that's broken, just code you have to merge, and the occasional merge conflict that you will have to resolve. At the end of all of this you will have a working CRUD app for Hogwarts students.
+Completion for this HW is part 9. There's no code here that's broken, just code you have to merge, and the occasional merge conflict that you will have to resolve. At the end of all of this you will have a working CRUD app for Hogwarts students.
 
 ## Setup - DONT RUN ANY RAILS CONFIG COMMANDS
 
@@ -113,4 +113,27 @@ Harrison Riddeled up some routes for our site, using some nice rails helpers. Me
 
 Finally, we need some styling in our app, which Andres has graciously provided in `andres_assets`. Merge the code in and we're good to go!
 
+# Bonus
+
 # Part 10 - Rack it All Up
+
+Now that we're all set up, lets try running our app!
+
+```
+bundle install
+rake db:create
+rake db:migrate
+rake db:seed
+
+rails s
+```
+
+Doesn't all work? Sort through the errors in your code!
+
+# Part 11 - Heroku it up!
+
+Some of you are perhaps rusty with Heroku, get this app online to show your buddies!
+
+# Part 12 - Fun
+
+Add yourselves to the app. Put yourself in a house of your choosing.
